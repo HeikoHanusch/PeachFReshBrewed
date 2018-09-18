@@ -1,0 +1,44 @@
+﻿Text für den Textbot , Baum labour law:
+
+What kind of labour law problem can we help you with?
+
+	→ part time → How many hours a week do you work at the moment?
+	→ leave entitlement → How long have you been working for your employer?
+
+→notice protection
+
+Please tell me the name of your employer.
+
+Could you give me your employers adress?
+
+How did your employer terminate your contract?
+	→ written notice
+	→ personal meeting
+ 	→ digital correspondence
+	→ other → please describe how your employer informed you about the termination
+
+When did you ((recieve the letter/notice)) ((have the aformentioned meeting)) ((recieve the termination <wenn „other“ gewählt wurde>))
+
+When did you start working at your current job?
+
+Which adress did you work at? How many people work for your employer on this site (estimate)?
+
+Please tell me, whether you were expecting at the time of your termination, if you recently had a baby or were on maternity leave when you recieved the termination.
+
+Is there a staff association at your workplace?
+
+Do you have a labour contract in written form?
+	→ yes
+	→ no
+
+Please fill out this contact form, allowing your lawyer to contact you.
+
+You previously told me you had ((a written notice of termination)) ((a written labour contract)) (( a written notice of termination and  a written notice of termination)). It would help our lawyers speeding things up, if you upload those documents here:
+	→ Select files
+	→ I‘d rather not right now
+
+Thank you for your information, I will have a lawyer see to it as soon as possible. We will get in contact via the contact details you entered within two days. Please note, that this doesn‘t conclude a mandate agreement yet.
+
+
+
+
