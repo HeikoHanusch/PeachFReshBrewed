@@ -1,7 +1,7 @@
 # PeachFReshBrewed
 Team - PeachFReshBrewed
 
-Team Lead: s.eckert
+Team Lead: s.eckert, Heiko Hanusch, Georg Schneider, Baltasar, 
 
 Development tools used: Brackets
 
