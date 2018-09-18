@@ -13,4 +13,4 @@ Assets used: Codesnipets von Corelaio-GmbH Website (in Entwicklung, Site des Dev
 
 Libraries used: JQuery
 
-Compononents not created at the hackathon: none
+Components not created at the hackathon: none
