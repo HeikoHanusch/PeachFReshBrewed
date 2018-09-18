@@ -1,7 +1,7 @@
 # PeachFReshBrewed
 Team - PeachFReshBrewed
 
-Team Lead: simoneeckert
+Team Lead: s.eckert
 
 Development tools used: Brackets
 
