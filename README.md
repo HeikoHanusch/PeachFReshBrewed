@@ -1,16 +1,16 @@
 # PeachFReshBrewed
 Team - PeachFReshBrewed
 
-Team Lead: 
+Team Lead: simoneeckert
 
-Development tools used: 
+Development tools used: Brackets
 
-SDK: Semantic UI
+SDK: SemanticUI
 
 API: none
 
-Assets used:
+Assets used: Codesnipets von Corelaio-GmbH Website (in Entwicklung, Site des Devs)
 
-Libraries used:
+Libraries used: JQuery
 
 Compononents not created at the hackathon: none
