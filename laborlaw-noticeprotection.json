@@ -1,0 +1,11 @@
+var peach = {"state":'x',
+             "laberlawnoticeprotection": [
+                {
+                "question" : "First Question regarding the laber law noticeprotection case?",  // Peach UI askes
+                "answerType"  : "string", // string || button
+                "answerContent" : "Your Answer", // Peach UI Answer Element Labeltext || button's intro
+                "userResponse" : "", // user text storage init empty || button's label
+                "ResponseAction" : "saveResponse();return false;" // onclick Function Array || set value id
+                }
+            ] // End "greeting"
+            };
